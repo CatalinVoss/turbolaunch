@@ -30,3 +30,9 @@ getpass
 commands
 json
 ```
+
+Install using `brew install ...`:
+
+```
+oath-toolkit
+```
