@@ -22,6 +22,7 @@ Add an alias and you'll be running in no time.
 Install using `pip install ...`:
 
 ```
+awscli
 subprocess
 pexpect
 keyring
