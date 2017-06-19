@@ -23,11 +23,7 @@ Install using `pip install ...`:
 
 ```
 awscli
-subprocess
-pexpect
 keyring
-getpass
-commands
 json
 ```
 
